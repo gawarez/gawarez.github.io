@@ -1,0 +1,51 @@
+body{
+margin-top: 0;
+margin-bottom: 0;
+margin-left: 0;
+margin-right: 0;
+background-color: #000000;
+font-family: Verdana;
+font-size: 12px;
+font-style: normal;
+font-variant: normal;
+font-weight: normal;
+color: #ffffff;
+}
+
+table{
+border: 10px;
+width: 80%;
+margin-left: 10%; 
+margin-right: 10%;
+}
+
+th{
+font-family: Fixedsys;
+font-size: 22px;
+color: #ff0000;
+}
+
+td{
+width: 200px;
+}
+
+input{
+width: 400px;
+}
+
+select{
+width: 200px;
+}
+
+.th2{
+background-color: #ff0000;
+font-size: 14px;
+font-weight: normal;
+color: #000000;
+text-align: left;
+}
+
+.input2{
+margin-left: 180px; 
+width: 220px;
+}
