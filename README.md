@@ -1,1 +1,1 @@
-# gawarez.github.io
+# gaware.github.io
