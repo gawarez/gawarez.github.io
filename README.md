@@ -1,3 +1,3 @@
 # [gaware.github.io](http://gaware.github.io)
 
-[Roberto Gauer](gawarez@gmail.com)
+Envie um e-mail para o [autor](gawarez@gmail.com).
