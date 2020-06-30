@@ -1,5 +1,5 @@
 # gaware.github.io
 
-Roberto Gauer - gawarez@gmail.com
+Roberto Gauer [ gawarez@gmail.com ]
 
 :D
